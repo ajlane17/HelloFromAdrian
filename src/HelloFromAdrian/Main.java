@@ -8,5 +8,6 @@ public class Main {
 
         System.out.println(ANSI_RED + "Hello, my name is Adrian!");
         System.out.println("Hello Adrian, my name is Kenyon!");
+        System.out.println("Hello Adrian, my name is Graham");
     }
 }
